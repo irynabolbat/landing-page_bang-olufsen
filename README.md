@@ -1,1 +1,1 @@
-# landing-page_bang-olufsen
+[DEMO LINK](https://irinabolbat.github.io/landing-page_bang-olufsen/)
