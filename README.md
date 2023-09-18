@@ -7,4 +7,4 @@ The landing page for an online shop dedicated to Bang & Olufsen products. This p
 
 ## 📋 How to get start
 
-Click on the following link to open online shop: [Bang & Olufsen](https://irinabolbat.github.io/landing-page_bang-olufsen/).
+Click on the following link to open online shop: [Bang & Olufsen](https://irynabolbat.github.io/landing-page_bang-olufsen/).
